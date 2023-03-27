@@ -17,6 +17,6 @@ dependencies {
 }
 
 application {
-    mainClassName = 'org.example.Main'
+    mainClassName = 'com.emile.jeu.Main'
 }
 
